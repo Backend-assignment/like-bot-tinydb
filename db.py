@@ -50,7 +50,6 @@ class LikeDB:
             The number of likes and dislikes for the post
         """
         data = self.db.get(doc_id=user_id)
-
         like = data.get("like")
 
         if like == 1:
