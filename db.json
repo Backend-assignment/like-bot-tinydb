@@ -1,5 +1,5 @@
 {
-    "_default": {
+    "img1": {
         "5575549228": {
             "like": 1,
             "dislike": 0
@@ -13,6 +13,12 @@
             "dislike": 0
         },
         "2007510369": {
+            "like": 0,
+            "dislike": 0
+        }
+    },
+    "_default": {
+        "5575549228": {
             "like": 0,
             "dislike": 0
         }
